@@ -2,4 +2,5 @@
 MSc. thesis on credit card fraud detection and balancing methods at CEFET-RJ
 
 ## data
-data is availabtle at https://www.kaggle.com/competitions/ieee-fraud-detection/data
+data is availabtle at https://www.kaggle.com/competitions/ieee-fraud-detection/data (dataset I)
+data is availabtle at https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud (dataset II)
